@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <token>dfccdf92df9adf9ddfccdf99df92dfcbdf9adf9cdfcfdfccdfccdf93df98dfcbdf9bdf98dfc8dfcfdfccdf9cdf9adf9ddfc8df9bdf9cdfc9df9cdfc9dfcedfcbdf93df9adfcedf99dfc8df9edf9bdf99</token>
+          <option name="hostUrl" value="http://172.21.32.28:9000/" />
+          <option name="name" value="XCA SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

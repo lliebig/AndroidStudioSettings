@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/Users/lliebig/Projects/thalia_xc_aos/xca/thalia/src/main/java/eu/thalia/app/ui/activities/web/NUTSActivity.java'" />
+    <option name="defaultScopeName" value="File '/Users/lliebig/Projects/thalia_xc_aos/xca/thalia/src/main/java/eu/thalia/app/ui/activities/web/NUTSActivity.java'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/lliebig/Projects/thalia_xc_aos/xca/thalia/src/main/java/eu/thalia/app/ui/activities/web/NUTSActivity.java'" />
+  </component>
+</application>
