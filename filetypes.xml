@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="button_selector_primary" type="XML" />
+      <mapping pattern="slide_in_top" type="XML" />
     </extensionMap>
   </component>
 </application>
