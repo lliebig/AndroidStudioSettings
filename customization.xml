@@ -12,6 +12,31 @@
       <path value="Android.MainToolBarActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.developerphil.adbidea.action.ClearDataAction" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.developerphil.adbidea.action.RestartWithDebuggerAction" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.developerphil.adbidea.action.UninstallAction" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="27">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="com.developerphil.adbidea.action.UninstallAction" />
     <action id="com.developerphil.adbidea.action.RestartWithDebuggerAction" />
     <action id="com.developerphil.adbidea.action.ClearDataAction" />
