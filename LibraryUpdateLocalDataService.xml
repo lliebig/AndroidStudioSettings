@@ -1,0 +1,44 @@
+<application>
+  <component name="LibraryUpdateLocalDataService">
+    <option name="dataFolder" value="C:\Users\LLiebig\AppData\Local\Temp\1536581822870-0" />
+    <option name="logFolder" value="C:\Users\LLiebig\AppData\Local\Temp\1536581822856-0" />
+    <option name="missingLib">
+      <set>
+        <option value="android.arch.core__core-testing" />
+        <option value="com.android.support.test.espresso__espresso-contrib" />
+        <option value="com.android.support.test.espresso__espresso-core" />
+        <option value="com.android.support.test.espresso__espresso-idling-resource" />
+        <option value="com.android.support.test.espresso__espresso-intents" />
+        <option value="com.android.support.test__rules" />
+        <option value="com.android.support.test__runner" />
+        <option value="com.astuetz__pagerslidingtabstrip" />
+        <option value="com.cocosw__bottomsheet" />
+        <option value="com.esotericsoftware.kryo__kryo" />
+        <option value="com.github.PhilJay__MPAndroidChart" />
+        <option value="com.github.Raizlabs.DBFlow__dbflow-core" />
+        <option value="com.github.Raizlabs.DBFlow__dbflow-processor" />
+        <option value="com.github.frankiesardo__linearlistview" />
+        <option value="com.github.oxoooo__touch-image-view" />
+        <option value="com.google.mockwebserver__mockwebserver" />
+        <option value="com.jakewharton__butterknife-compiler" />
+        <option value="com.kyleduo.switchbutton__library" />
+        <option value="com.linkedin.dexmaker__dexmaker-mockito" />
+        <option value="com.netflix.rxjava__rxjava-core" />
+        <option value="com.nhaarman.mockitokotlin2__mockito-kotlin" />
+        <option value="com.snappydb__snappydb-lib" />
+        <option value="com.squareup.leakcanary__leakcanary-android-no-op" />
+        <option value="com.squareup__otto" />
+        <option value="de.avm.android.libs__security-library" />
+        <option value="de.avm.android.libs__testing-library" />
+        <option value="de.avm.android.libs__vpn-library" />
+        <option value="de.hdodenhof__circleimageview" />
+        <option value="me.grantland__autofittextview" />
+        <option value="org.jetbrains.anko__anko" />
+        <option value="org.jetbrains.kotlin__kotlin-stdlib-jdk7" />
+        <option value="org.jetbrains.kotlinx__kotlinx-coroutines-core" />
+        <option value="org.mortbay.jetty.npn__npn-boot" />
+        <option value="org.robolectric__shadows-multidex" />
+      </set>
+    </option>
+  </component>
+</application>
