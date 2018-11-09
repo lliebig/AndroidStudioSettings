@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://leandi.avm.de/sonar/" />
+          <token>dfc9df9fdf9cdf9cdf9edfccdfccdfcbdfcedf93df99dfcedf92df9adfcfdf9edfcbdf93dfcbdf93dfcedfc9df9adf92df9edf98df9ddf99dfccdfcfdf9adfccdf9bdf98df9cdf99df9fdf92df9edfc9</token>
+          <option name="name" value="https://leandi.avm.de/sonar/" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
