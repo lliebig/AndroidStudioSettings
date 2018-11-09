@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="JAVA_HOME" value="C:/Program Files/Java/jre1.8.0_151" />
-    <macro name="KOTLIN_BUNDLED" value="C:\Program Files\Android\Android Studio\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\Leo\.AndroidStudio3.2\config\plugins\Kotlin\kotlinc" />
   </component>
 </application>
