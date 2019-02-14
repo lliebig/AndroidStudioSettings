@@ -1,27 +1,24 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="com.developerphil.adbidea.action.ClearDataAndRestartAction" is_action="true" action_type="1" position="13">
+    <group value="com.developerphil.adbidea.action.ClearDataAction" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="com.developerphil.adbidea.action.RestartWithDebuggerAction" is_action="true" action_type="1" position="14">
+    <group value="com.developerphil.adbidea.action.RestartWithDebuggerAction" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="com.developerphil.adbidea.action.UninstallAction" is_action="true" action_type="1" position="15">
+    <group value="com.developerphil.adbidea.action.UninstallAction" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="16">
+    <group value="com.developerphil.adbidea.action.KillAction" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="com.developerphil.adbidea.action.ClearDataAndRestartAction" />
-    <action id="com.developerphil.adbidea.action.UninstallAction" />
-    <action id="com.developerphil.adbidea.action.RestartWithDebuggerAction" />
   </component>
 </application>
