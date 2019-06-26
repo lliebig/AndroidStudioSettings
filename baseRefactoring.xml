@@ -2,4 +2,8 @@
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
 </application>
