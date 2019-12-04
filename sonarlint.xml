@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="kotlin:S107" />
+        <option value="kotlin:S1479" />
       </set>
     </option>
     <option name="sonarQubeServers">
