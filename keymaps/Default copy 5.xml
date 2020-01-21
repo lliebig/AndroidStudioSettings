@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="Macro.Format and save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
