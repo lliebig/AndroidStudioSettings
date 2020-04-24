@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
+      <mapping pattern="values-preference" type="XML" />
     </extensionMap>
   </component>
 </application>
