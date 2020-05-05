@@ -8,9 +8,6 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="Gradle.ToggleOfflineAction">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
   <action id="Macro.Format and save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
