@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="md" type="GitIgnore file" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
-      <removed_mapping ext="md" type="Specification" />
       <mapping pattern="values-preference" type="XML" />
     </extensionMap>
   </component>
