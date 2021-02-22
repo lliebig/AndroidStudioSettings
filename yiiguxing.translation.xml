@@ -1,0 +1,16 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="фильтруем таймауты" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1613999599710" />
+  </component>
+</application>
