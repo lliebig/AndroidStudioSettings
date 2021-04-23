@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Expression conversions/Convert simple getter to property" />
+  </component>
+</application>
