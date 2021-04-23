@@ -9,5 +9,6 @@
   <component name="Registry">
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tooltip.initialDelay" value="591" />
+    <entry key="external.system.auto.import.disabled" value="true" />
   </component>
 </application>
