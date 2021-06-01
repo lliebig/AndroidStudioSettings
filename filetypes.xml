@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="db" type="Native" />
-      <mapping pattern="values-preference" type="XML" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="chartConfiguration.xml" type="XML" />
     </extensionMap>
   </component>
 </application>
