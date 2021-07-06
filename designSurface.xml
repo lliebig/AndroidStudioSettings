@@ -1,0 +1,13 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/activity_detail.xml" value="0.17931345980126467" />
+        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_energy.xml" value="0.36255707762557077" />
+        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_loading_view.xml" value="0.36255707762557077" />
+        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_power.xml" value="0.36255707762557077" />
+        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/switch_details.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
