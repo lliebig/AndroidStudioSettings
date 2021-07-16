@@ -2,13 +2,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Git/app_myfritz2/app/src/main/res/xml/preferences_debug.xml" value="1.0" />
-        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/activity_detail.xml" value="0.17931345980126467" />
-        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_energy.xml" value="0.36255707762557077" />
-        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_loading_view.xml" value="0.36255707762557077" />
-        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_power.xml" value="0.36255707762557077" />
-        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/chart_temperature.xml" value="0.1" />
-        <entry key="..\:/Git/app_smarthome/details/src/main/res/layout/switch_details.xml" value="0.1" />
+        <entry key="..\:/Git/AVM/app_myfritz2/app/src/main/res/layout/toolbar_vpn_switch.xml" value="0.22826086956521738" />
+        <entry key="..\:/Git/AVM/app_smarthome/dashboard/src/main/res/layout/dashboard_item_template.xml" value="0.32719298245614037" />
+        <entry key="..\:/Git/AVM/app_smarthome/details/src/main/res/drawable/ic_dect301_small.xml" value="0.4036458333333333" />
+        <entry key="..\:/Git/AVM/app_smarthome/details/src/main/res/layout/chart_loading_view.xml" value="0.32719298245614037" />
+        <entry key="..\:/Git/AVM/app_smarthome/details/src/main/res/layout/switch_control_fragment.xml" value="0.32719298245614037" />
+        <entry key="..\:/Git/AVM/app_smarthome/details/src/main/res/layout/switch_details.xml" value="0.32719298245614037" />
+        <entry key="..\:/Git/AVM/app_smarthome/details/src/main/res/layout/thermostat_details.xml" value="0.32719298245614037" />
       </map>
     </option>
   </component>
